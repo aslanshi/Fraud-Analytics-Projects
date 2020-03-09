@@ -1,4 +1,3 @@
-# nanchun
 This repository is a collection of jupyter notebooks in Python that I developed for recent projects.
 
 Project 1: Unsupervised ML on NY Properties Anomaly Detection 				                                             
