@@ -1,0 +1,6 @@
+Project 1: Unsupervised ML on NY Properties Anomaly Detection
+
+- Created a business-level data quality report on NY property data with over 1 million records.
+- Leveraged google API and web scraping to fill in missing location data using Python; created and normalized expert variables by dividing averages at different granularities; optimized speed performance by applying vectorization.
+- Conduct principal component analysis to reduce dimensionality; visualized component variance explained; standardized principle components and calculated Euclidean distances of z-scaled components; built an autoencoder model and calculated Euclidean distances of the difference between inputs and decoded outputs; ranked by each score to unify scales and combined two rankings.
+- Detected potential anomalies, traced down possible causes and created a high-level business report.
