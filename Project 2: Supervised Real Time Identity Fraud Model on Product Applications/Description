@@ -1,0 +1,7 @@
+Project 2: Supervised Real Time Identity Fraud Model on Product Applications
+
+- Produced exploratory data analysis report on 1 million product application records with fraud labels; cleaned frivolous fields.
+- Applied smooth transition function to create a risk table of fraud probabilities at each day of the week at proper granular levels.
+- Created over 300 candidate time series variables; improved execution speed of professor’s script by 110x; achieved the best execution performance in the class.
+- Applied feature selection methods such as Kolmogorov–Smirnov, fraud detection rate, stepwise logistic regression, and Lasso regularization to reduce dimensionality; split dataset into training/testing and out of time validation sets; built supervised KNN/tree-based/support vector machines/neural networks classification models and conduct grid search/random search for hyperparameter tuning; calculated/plotted goodness measures such as ROC, AUC, as well as bias-variance tradeoff.
+- Picked model with the highest fraud detection rate at 3% on the out of time validation set; produced a high-level business report.
